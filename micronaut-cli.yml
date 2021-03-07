@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: pro.solidexception
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, gradle, http-client, java, java-application, jdbc-hikari, junit, logback, netty-server, openapi, postgres, readme, rxjava3, shade, testcontainers, yaml]
